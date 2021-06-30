@@ -5,6 +5,4 @@ soA = float(input("nhap so thap phan A: "))
 so_can_lam_tron = int(input("nhap so can lam tron: "))
 
 
-# print(round(soA,so_can_lam_tron))
-
-print("{0}.{1}.format(soA,so_can_lam_tron)")
+print(round(soA,so_can_lam_tron))
