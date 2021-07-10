@@ -1,1 +1,1 @@
-print("print demo 1")
+print(3 * '7')
