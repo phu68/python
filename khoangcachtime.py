@@ -7,3 +7,6 @@ phut2 = int(input('Nhap phut 2:'))
 
 def truphut(phut1,phut2):
 	return phut2
+
+def trugio(gio1,gio2):
+	return gio
